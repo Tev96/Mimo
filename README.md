@@ -6,6 +6,7 @@ This repository serves as evidence of my successful completion of the Python cou
 ### Course Name: Python Programming
 
 <b>Certificate of Completion:</b>
+<img src="79D86626-5D14-49B9-A626-FACF82941BA5.jpeg">
 
 
 ### Course Description
