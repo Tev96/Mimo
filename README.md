@@ -1,6 +1,8 @@
 ## Introduction
 
-This repository serves as evidence of my successful completion of the Python course offered by Mimo. Throughout the course, I gained a solid foundation in Python programming and learned various concepts and techniques that are fundamental to the language. This README file provides an overview of the course and highlights the key topics covered.
+This repository serves as evidence of my successful completion of the Python and SQL courses offered by Mimo. Throughout the Python course, I gained a solid understanding of the language and learned various concepts and techniques that form the core of Python programming. From basic syntax to more advanced topics like object-oriented programming, I explored a wide range of Python's capabilities.
+
+Additionally, the SQL course provided me with a comprehensive understanding of structured query language. I learned how to design and manipulate databases, execute complex queries, and optimize database performance. 
 
 
 ### Course Name: Python Programming
