@@ -34,6 +34,8 @@ The course covered a wide range of topics, including but not limited to:
 
 ### Course Name: SQL Programming 
 
+<b>Certificate of Completion</b>
+
 <img src="1A0D3F1B-0A0C-40EE-A1B3-F8056DCABA71.jpeg">
 
 ### Course Content
