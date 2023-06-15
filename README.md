@@ -34,3 +34,7 @@ The course covered a wide range of topics, including but not limited to:
 13. Object-oriented Programming
 14. Modules
 15. Errors and Exceptions
+
+### Course Name:
+
+<img src="1A0D3F1B-0A0C-40EE-A1B3-F8056DCABA71.jpeg">
