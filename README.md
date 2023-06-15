@@ -11,9 +11,6 @@ Additionally, the SQL course provided me with a comprehensive understanding of s
 <img src="79D86626-5D14-49B9-A626-FACF82941BA5.jpeg">
 
 
-### Course Description
-
-The Python Programming course offered by Mimo is designed to introduce learners to the world of Python and equip them with the necessary skills to write Python programs effectively. The course is structured in a step-by-step manner, gradually building upon previous lessons to ensure a smooth learning experience.
 
 ### Course Content
 
@@ -35,6 +32,17 @@ The course covered a wide range of topics, including but not limited to:
 14. Modules
 15. Errors and Exceptions
 
-### Course Name:
+### Course Name: SQL Programming 
 
 <img src="1A0D3F1B-0A0C-40EE-A1B3-F8056DCABA71.jpeg">
+
+### Course Content
+
+1. SQL Basics
+2. Table Management 
+3. Filters
+4. Aggregate Functions
+5. Joins 
+6. Subqueries
+
+
